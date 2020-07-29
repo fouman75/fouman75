@@ -25,15 +25,14 @@ Here are some ideas to get you started:
 </a>
 -->
 ### Contact Me
+![Discord](https://img.shields.io/static/v1?label=Discord&message=fouman%239537&color=black&logo=discord&style=for-the-badge&logoColor=white)
+
 <a href="https://www.linkedin.com/in/frederickouimet/">
   <img align="left" alt="Fouman's Linked In" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/fouman75/">
   <img align="left" alt="Fouman's Reddit" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
-<br /> <br />
-![Discord](https://img.shields.io/static/v1?label=Discord&message=fouman%239537&color=black&logo=discord&style=for-the-badge&logoColor=white)
 
 <br />
 
