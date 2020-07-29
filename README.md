@@ -24,6 +24,17 @@ Here are some ideas to get you started:
   <img align="left" alt="Fouman's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 -->
+### Languages and Tools
+<!-- <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/"></code> -->
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
+
+<br />
+
 ### Contact Me
 ![Discord](https://img.shields.io/static/v1?label=Discord&message=fouman%239537&color=black&logo=discord&style=for-the-badge&logoColor=white)
 
@@ -33,22 +44,11 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/fouman75/">
   <img align="left" alt="Fouman's Reddit" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+&nbsp;
 
 <br />
 
-### Languages and Tools
 <!--
 ![fouman](https://img.shields.io/github/repo-size/FOUMAN75/Jigsawnoi?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/FOUMAN75/REPOSITORY?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/FOUMAN75/REPOSITORY?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/FOUMAN75/REPOSITORY?color=red&style=plastic)
 -->
-
-
-<!-- <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/"></code> -->
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
-
-
 <!-- ![Fouman's github stats](https://github-readme-stats.vercel.app/api?username=fouman75&show_icons=true&hide_border=true) -->
