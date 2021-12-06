@@ -24,25 +24,35 @@ Here are some ideas to get you started:
   <img align="left" alt="Fouman's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 -->
-### Languages and Tools
 <!-- <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/"></code> -->
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
 
+### Game engines
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Unity&color=black&logo=unity&style=for-the-badge&logoColor=white"></code>
+
+### Languages
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=C%23&color=239120&logo=csharp&style=for-the-badge&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Javascript&color=F7DF1E&logo=javascript&style=for-the-badge&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Java&color=007396&logo=java&style=for-the-badge&logoColor=white"></code>
+
+
+### Mobile platforms     
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Android&color=3DDC84&logo=android&style=for-the-badge&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=iOS&color=000000&logo=ios&style=for-the-badge&logoColor=white"></code>
+
+### Cloud
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Firebase&color=FFCA28&logo=firebase&style=for-the-badge&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Playfab&color=243a5e&style=for-the-badge&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/static/v1?label=%20&message=Node.JS&color=339933&logo=nodedotjs&style=for-the-badge&logoColor=white"></code>
 <br />
 
 ### Contact Me
-![Discord](https://img.shields.io/static/v1?label=Discord&message=fouman%239537&color=black&logo=discord&style=for-the-badge&logoColor=white)
+![Discord](https://img.shields.io/static/v1?label=Discord&message=fouman%239537&color=5865F2&logo=discord&style=for-the-badge&logoColor=white)
 
 <a href="https://www.linkedin.com/in/frederickouimet/">
-  <img align="left" alt="Fouman's Linked In" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Fouman's Linked In" src="https://img.shields.io/static/v1?label=%20&message=LinkedIN&color=0A66C2&logo=linkedin&style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.reddit.com/user/fouman75/">
-  <img align="left" alt="Fouman's Reddit" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Fouman's Reddit" src="https://img.shields.io/static/v1?label=%20&message=Reddit&color=FF4500&logo=reddit&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 
