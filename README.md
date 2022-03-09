@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey!
 
-Check out what I'm working on at [FOUONE.COM](https://www.fouone.com)
+Check out what I'm working on at [FOUONE.COM](https://www.fouone.com) or [Itch.io](https://fouman75.itch.io/)
 
 <!--
 **fouman75/fouman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
